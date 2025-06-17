@@ -19,7 +19,7 @@ A Python GUI application that helps you analyze student marks from a CSV file, c
 
 ## 🖼️ GUI Preview
 
-> *(You can add a screenshot here later)*  
+![App Screenshot](screenshot.png)
 > Just take a screenshot and upload it to your repo, then link it here:
 >  
 > `![App Screenshot](screenshot.png)`
